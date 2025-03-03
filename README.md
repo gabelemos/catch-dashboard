@@ -1,6 +1,5 @@
 ![icone-catch](https://catch.inf.br/assets/img/logomarca.webp)
-# MédiaSimples
+# Catch Dashboard
 
-O "MédiaSimples"
-É um projeto que tem como intuito facilitar a visualização das
-notas bimestrais/médias dos estudantes.
+Repositório de arquivos do Dashboard do aplicativo Catch.
+Criado pela equipe de desenvolvimeto do Dashboard em parceria a FACEPE.
